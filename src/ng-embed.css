@@ -4,11 +4,11 @@
 
 @font-face {
     font-family : 'emoticons';
-    src         : url('../fonts/emoticons.eot?5zh0vu');
+    src         : url('../fonts/emoticons.eot');
     src         : url('../fonts/emoticons.eot?#iefix5zh0vu') format('embedded-opentype'),
-    url('../fonts/emoticons.woff?5zh0vu') format('woff'),
-    url('../fonts/emoticons.ttf?5zh0vu') format('truetype'),
-    url('../fonts/emoticons.svg?5zh0vu#icomoon') format('svg');
+    url('../fonts/emoticons.woff') format('woff'),
+    url('../fonts/emoticons.ttf') format('truetype'),
+    url('../fonts/emoticons.svg') format('svg');
     font-weight : normal;
     font-style  : normal;
     }
